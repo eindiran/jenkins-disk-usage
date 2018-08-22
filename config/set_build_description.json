@@ -1,0 +1,4 @@
+{
+    "Regular expression": "Normal disk usage [a-zA-Z/]*: ([0-9]*)",
+    "Description": "Disk usage \1%"
+}

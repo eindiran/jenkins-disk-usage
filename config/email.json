@@ -1,0 +1,4 @@
+{
+    "Default Content": "There are disk usage issues for Jenkins, in either /data or /var/lib/jenkins\nPlease cleanup these areas to ensure that Jenkins can continue to build without issues.",
+    "Attach Build Log": true
+}
